@@ -233,6 +233,3 @@ This document outlines the testing plan for all endpoints in the MicroTask App. 
      ```
 
 ---
-
-## **Summary**
-This testing plan covers all endpoints and ensures that each role (Admin, Employer, Worker) can access the appropriate endpoints. Let me know if you need further assistance! 🚀
